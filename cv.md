@@ -23,6 +23,8 @@
 - Git
 - PyCharm
 - Workbench
+- Google Cloud
+- Docker
 
 <br/>
 
